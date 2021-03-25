@@ -1,0 +1,14 @@
+{
+  "name": "c-vue-comp",
+  "version": "1.0.7",
+  "description": "命令行创建vue组件",
+  "bin": {
+    "c-comp-cli": "./bin/c-comp-cli.js"
+  },
+  "keywords": [
+    "vue",
+    "component"
+  ],
+  "author": "pimzh",
+  "license": "MIT"
+}
